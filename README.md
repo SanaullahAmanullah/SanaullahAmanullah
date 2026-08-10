@@ -11,12 +11,11 @@
 [![Email](https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sanaullahaman01@gmail.com)
 
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D_Doha%2C_Qatar-0E7490?style=for-the-badge&labelColor=164E63)](https://github.com/NagiSheshero7)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%94%93_Open_To--Security_Engineer-0E7490?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%94%93_Open_To-Security_Engineer_Worldwide-0E7490?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
 
-[![Relocate](https://img.shields.io/badge/%F0%9F%8C%8D_Relocate-Vancouver-06B6D4?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
-[![Relocate](https://img.shields.io/badge/%F0%9F%8C%8D_Relocate-London-06B6D4?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
-[![Remote](https://img.shields.io/badge/%F0%9F%92%BB_Remote-OK-06B6D4?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
-[![Sponsorship](https://img.shields.io/badge/%F0%9F%9B%82_Visa_Sponsorship-Needed-06B6D4?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
+[![Relocate](https://img.shields.io/badge/%F0%9F%8C%8D_Open_To-Relocate_Worldwide-06B6D4?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
+[![Remote](https://img.shields.io/badge/%F0%9F%92%BB_Remote-Welcome-06B6D4?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
+[![Sponsorship](https://img.shields.io/badge/%F0%9F%9B%82_Visa_Sponsorship-Required-06B6D4?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
 
 <br/>
 
@@ -56,7 +55,7 @@ I approach security like an engineer: find the pattern, automate the detection, 
 | 🎯 **Currently Seeking** |
 |:---:|
 | **Security Engineer** — AppSec · CloudSec · Offensive Security |
-| **Location** — Vancouver, London, or Remote |
+| **Location** — Open to Relocate Worldwide · Remote Welcome |
 | **Visa Sponsorship** — Required |
 
 </div>
@@ -343,7 +342,7 @@ Learning:
 
 Open To:
   - Security Engineer (AppSec · CloudSec · Offensive Security)
-  - Vancouver, London, or Remote
+  - Relocate worldwide · Remote welcome
   - Visa sponsorship required
 ```
 
