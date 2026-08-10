@@ -7,10 +7,10 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D97706?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanaullah-aman-50)
-[![GitHub](https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagiSheshero7)
+[![GitHub](https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanaullahAmanullah)
 [![Email](https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sanaullahaman01@gmail.com)
 
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D_Doha%2C_Qatar-B45309?style=for-the-badge&labelColor=1A1A2E)](https://github.com/NagiSheshero7)
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D_Doha%2C_Qatar-B45309?style=for-the-badge&labelColor=1A1A2E)](https://github.com/SanaullahAmanullah)
 [![Open to Work](https://img.shields.io/badge/%F0%9F%94%93_Open_To-Security_Engineer_Worldwide-B45309?style=for-the-badge&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
 
 [![Relocate](https://img.shields.io/badge/%F0%9F%8C%8D_Open_To-Relocate_Worldwide-F59E0B?style=for-the-badge&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
@@ -70,12 +70,12 @@ I approach security like an engineer: find the pattern, automate the detection, 
 
 ### Languages I Work In
 
-[![Python](https://img.shields.io/badge/Python-B45309?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NagiSheshero7)
-[![Java](https://img.shields.io/badge/Java-B45309?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/NagiSheshero7)
-[![JavaScript](https://img.shields.io/badge/JavaScript-B45309?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/NagiSheshero7)
-[![PHP](https://img.shields.io/badge/PHP-B45309?style=for-the-badge&logo=php&logoColor=white)](https://github.com/NagiSheshero7)
-[![Bash](https://img.shields.io/badge/Bash-B45309?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/NagiSheshero7)
-[![C#](https://img.shields.io/badge/C%23-B45309?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/NagiSheshero7)
+[![Python](https://img.shields.io/badge/Python-B45309?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SanaullahAmanullah)
+[![Java](https://img.shields.io/badge/Java-B45309?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/SanaullahAmanullah)
+[![JavaScript](https://img.shields.io/badge/JavaScript-B45309?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/SanaullahAmanullah)
+[![PHP](https://img.shields.io/badge/PHP-B45309?style=for-the-badge&logo=php&logoColor=white)](https://github.com/SanaullahAmanullah)
+[![Bash](https://img.shields.io/badge/Bash-B45309?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/SanaullahAmanullah)
+[![C#](https://img.shields.io/badge/C%23-B45309?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/SanaullahAmanullah)
 
 ### Security Tools
 
@@ -120,7 +120,7 @@ Stack:  Claude Code Skills · Burp MCP · JWT Tool
 Impact: Cuts manual pentest overhead — endpoint mapping, IDOR hunting, finding write-ups
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-burp--sec--skills-D97706?style=flat-square&logo=github)](https://github.com/NagiSheshero7/burp-sec-skills)
+[![Repo](https://img.shields.io/badge/View_Repo-burp--sec--skills-D97706?style=flat-square&logo=github)](https://github.com/SanaullahAmanullah/burp-sec-skills)
 
 </details>
 
@@ -135,7 +135,7 @@ Stack:  Semgrep · YAML · GitHub Actions · GitLab CI
 Impact: Catches vuln patterns at PR stage — issues caught before they reach pentest
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-semgrep--security--rules-D97706?style=flat-square&logo=github)](https://github.com/NagiSheshero7/semgrep-security-rules)
+[![Repo](https://img.shields.io/badge/View_Repo-semgrep--security--rules-D97706?style=flat-square&logo=github)](https://github.com/SanaullahAmanullah/semgrep-security-rules)
 
 </details>
 
@@ -150,7 +150,7 @@ Stack:  Python · OpenAPI 3.x · STRIDE · Heuristic Classification
 Impact: 3-hour manual mapping → 30-second automated analysis
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-api--threat--model-D97706?style=flat-square&logo=github)](https://github.com/NagiSheshero7/api-threat-model)
+[![Repo](https://img.shields.io/badge/View_Repo-api--threat--model-D97706?style=flat-square&logo=github)](https://github.com/SanaullahAmanullah/api-threat-model)
 
 </details>
 
@@ -165,7 +165,7 @@ Stack:  Python · LLM APIs · Anthropic Tool-Use
 Status: Experimental research — not production tooling
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-ai--sec--review-D97706?style=flat-square&logo=github)](https://github.com/NagiSheshero7/ai-sec-review)
+[![Repo](https://img.shields.io/badge/View_Repo-ai--sec--review-D97706?style=flat-square&logo=github)](https://github.com/SanaullahAmanullah/ai-sec-review)
 [![Article](https://img.shields.io/badge/Read_Article-Medium-D97706?style=flat-square&logo=medium)](https://medium.com/@sanaullahamankorai/6cdc5ad2c105)
 
 </details>
@@ -292,7 +292,7 @@ Status: Experimental research — not production tooling
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NagiSheshero7&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=-C,-?)](https://github.com/NagiSheshero7)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SanaullahAmanullah&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=-C,-?)](https://github.com/SanaullahAmanullah)
 
 </div>
 
@@ -308,7 +308,7 @@ Status: Experimental research — not production tooling
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NagiSheshero7/NagiSheshero7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -357,7 +357,7 @@ Open To:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D97706?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
-[![GitHub](https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/NagiSheshero7)
+[![GitHub](https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/SanaullahAmanullah)
 [![Email](https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:sanaullahaman01@gmail.com)
 
 </div>
