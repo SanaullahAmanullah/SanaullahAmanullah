@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=180&section=header&text=Sanaullah%20Amanullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%7C%20OSCP%20%7C%20Synack%20Red%20Team&descAlignY=55&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D97706&height=180&section=header&text=Sanaullah%20Amanullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%7C%20OSCP%20%7C%20Synack%20Red%20Team&descAlignY=55&descSize=14" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Application+Security+Engineer;Pentester+%E2%86%92+Builder;Threat+Modeling+%26+Secure+Code+Review;Python+Automation+%26+Security+Tooling;Bug+Bounty+Hunter+%7C+Synack+Red+Team)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanaullah-aman-50)
-[![GitHub](https://img.shields.io/badge/GitHub-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagiSheshero7)
-[![Email](https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sanaullahaman01@gmail.com)
-
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D_Doha%2C_Qatar-0E7490?style=for-the-badge&labelColor=164E63)](https://github.com/NagiSheshero7)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%94%93_Open_To-Security_Engineer_Worldwide-0E7490?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
-
-[![Relocate](https://img.shields.io/badge/%F0%9F%8C%8D_Open_To-Relocate_Worldwide-06B6D4?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
-[![Remote](https://img.shields.io/badge/%F0%9F%92%BB_Remote-Welcome-06B6D4?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
-[![Sponsorship](https://img.shields.io/badge/%F0%9F%9B%82_Visa_Sponsorship-Required-06B6D4?style=for-the-badge&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Application+Security+Engineer;Pentester+%E2%86%92+Builder;Threat+Modeling+%26+Secure+Code+Review;Python+Automation+%26+Security+Tooling;Bug+Bounty+Hunter+%7C+Synack+Red+Team)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=NagiSheshero7&color=0891B2&style=flat-square&label=Profile+Views" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D97706?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanaullah-aman-50)
+[![GitHub](https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagiSheshero7)
+[![Email](https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sanaullahaman01@gmail.com)
+
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D_Doha%2C_Qatar-B45309?style=for-the-badge&labelColor=1A1A2E)](https://github.com/NagiSheshero7)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%94%93_Open_To-Security_Engineer_Worldwide-B45309?style=for-the-badge&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
+
+[![Relocate](https://img.shields.io/badge/%F0%9F%8C%8D_Open_To-Relocate_Worldwide-F59E0B?style=for-the-badge&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
+[![Remote](https://img.shields.io/badge/%F0%9F%92%BB_Remote-Welcome-F59E0B?style=for-the-badge&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
+[![Sponsorship](https://img.shields.io/badge/%F0%9F%9B%82_Visa_Sponsorship-Required-F59E0B?style=for-the-badge&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
 
 </div>
 
@@ -74,28 +70,28 @@ I approach security like an engineer: find the pattern, automate the detection, 
 
 ### Languages I Work In
 
-[![Python](https://img.shields.io/badge/Python-0E7490?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NagiSheshero7)
-[![Java](https://img.shields.io/badge/Java-0E7490?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/NagiSheshero7)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0E7490?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/NagiSheshero7)
-[![PHP](https://img.shields.io/badge/PHP-0E7490?style=for-the-badge&logo=php&logoColor=white)](https://github.com/NagiSheshero7)
-[![Bash](https://img.shields.io/badge/Bash-0E7490?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/NagiSheshero7)
-[![C#](https://img.shields.io/badge/C%23-0E7490?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/NagiSheshero7)
+[![Python](https://img.shields.io/badge/Python-B45309?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NagiSheshero7)
+[![Java](https://img.shields.io/badge/Java-B45309?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/NagiSheshero7)
+[![JavaScript](https://img.shields.io/badge/JavaScript-B45309?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/NagiSheshero7)
+[![PHP](https://img.shields.io/badge/PHP-B45309?style=for-the-badge&logo=php&logoColor=white)](https://github.com/NagiSheshero7)
+[![Bash](https://img.shields.io/badge/Bash-B45309?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/NagiSheshero7)
+[![C#](https://img.shields.io/badge/C%23-B45309?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/NagiSheshero7)
 
 ### Security Tools
 
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-0E7490?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net)
-[![Nessus](https://img.shields.io/badge/Nessus-0E7490?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com)
-[![Semgrep](https://img.shields.io/badge/Semgrep_SAST-0E7490?style=for-the-badge&logo=semgrep&logoColor=white)](https://semgrep.dev)
-[![Wireshark](https://img.shields.io/badge/Wireshark-0E7490?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
-[![Nmap](https://img.shields.io/badge/Nmap-0E7490?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-B45309?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net)
+[![Nessus](https://img.shields.io/badge/Nessus-B45309?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com)
+[![Semgrep](https://img.shields.io/badge/Semgrep_SAST-B45309?style=for-the-badge&logo=semgrep&logoColor=white)](https://semgrep.dev)
+[![Wireshark](https://img.shields.io/badge/Wireshark-B45309?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![Nmap](https://img.shields.io/badge/Nmap-B45309?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
 
 ### Infrastructure & DevOps
 
-[![AWS](https://img.shields.io/badge/AWS-0E7490?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Docker](https://img.shields.io/badge/Docker-0E7490?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![GitLab CI](https://img.shields.io/badge/GitLab_CI-0E7490?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0E7490?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Linux](https://img.shields.io/badge/Linux-0E7490?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org)
+[![AWS](https://img.shields.io/badge/AWS-B45309?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Docker](https://img.shields.io/badge/Docker-B45309?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![GitLab CI](https://img.shields.io/badge/GitLab_CI-B45309?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-B45309?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Linux](https://img.shields.io/badge/Linux-B45309?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org)
 
 ### Protocols & Standards
 
@@ -124,7 +120,7 @@ Stack:  Claude Code Skills · Burp MCP · JWT Tool
 Impact: Cuts manual pentest overhead — endpoint mapping, IDOR hunting, finding write-ups
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-burp--sec--skills-0891B2?style=flat-square&logo=github)](https://github.com/NagiSheshero7/burp-sec-skills)
+[![Repo](https://img.shields.io/badge/View_Repo-burp--sec--skills-D97706?style=flat-square&logo=github)](https://github.com/NagiSheshero7/burp-sec-skills)
 
 </details>
 
@@ -139,7 +135,7 @@ Stack:  Semgrep · YAML · GitHub Actions · GitLab CI
 Impact: Catches vuln patterns at PR stage — issues caught before they reach pentest
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-semgrep--security--rules-0891B2?style=flat-square&logo=github)](https://github.com/NagiSheshero7/semgrep-security-rules)
+[![Repo](https://img.shields.io/badge/View_Repo-semgrep--security--rules-D97706?style=flat-square&logo=github)](https://github.com/NagiSheshero7/semgrep-security-rules)
 
 </details>
 
@@ -154,7 +150,7 @@ Stack:  Python · OpenAPI 3.x · STRIDE · Heuristic Classification
 Impact: 3-hour manual mapping → 30-second automated analysis
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-api--threat--model-0891B2?style=flat-square&logo=github)](https://github.com/NagiSheshero7/api-threat-model)
+[![Repo](https://img.shields.io/badge/View_Repo-api--threat--model-D97706?style=flat-square&logo=github)](https://github.com/NagiSheshero7/api-threat-model)
 
 </details>
 
@@ -169,8 +165,8 @@ Stack:  Python · LLM APIs · Anthropic Tool-Use
 Status: Experimental research — not production tooling
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-ai--sec--review-0891B2?style=flat-square&logo=github)](https://github.com/NagiSheshero7/ai-sec-review)
-[![Article](https://img.shields.io/badge/Read_Article-Medium-0891B2?style=flat-square&logo=medium)](https://medium.com/@sanaullahamankorai/6cdc5ad2c105)
+[![Repo](https://img.shields.io/badge/View_Repo-ai--sec--review-D97706?style=flat-square&logo=github)](https://github.com/NagiSheshero7/ai-sec-review)
+[![Article](https://img.shields.io/badge/Read_Article-Medium-D97706?style=flat-square&logo=medium)](https://medium.com/@sanaullahamankorai/6cdc5ad2c105)
 
 </details>
 
@@ -268,19 +264,19 @@ Status: Experimental research — not production tooling
 
 ### Offensive Security Certified
 
-[![OSCP](https://img.shields.io/badge/OSCP-0891B2?style=for-the-badge&logo=offensivesecurity&logoColor=white)](https://www.credential.net/)
-[![OSCP+](https://img.shields.io/badge/OSCP+-0891B2?style=for-the-badge&logo=offensivesecurity&logoColor=white)](https://www.credential.net/)
+[![OSCP](https://img.shields.io/badge/OSCP-D97706?style=for-the-badge&logo=offensivesecurity&logoColor=white)](https://www.credential.net/)
+[![OSCP+](https://img.shields.io/badge/OSCP+-D97706?style=for-the-badge&logo=offensivesecurity&logoColor=white)](https://www.credential.net/)
 
 ### Web & Network Pentesting
 
-[![eWPT](https://img.shields.io/badge/eWPT-0891B2?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://certs.ine.com/)
-[![eJPT](https://img.shields.io/badge/eJPT-0891B2?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://certs.ine.com/)
-[![eCPPTv2](https://img.shields.io/badge/eCPPTv2-0891B2?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://certs.ine.com/)
+[![eWPT](https://img.shields.io/badge/eWPT-D97706?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://certs.ine.com/)
+[![eJPT](https://img.shields.io/badge/eJPT-D97706?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://certs.ine.com/)
+[![eCPPTv2](https://img.shields.io/badge/eCPPTv2-D97706?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://certs.ine.com/)
 
 ### Red Team & Active Directory
 
-[![CRTP](https://img.shields.io/badge/CRTP-0891B2?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://www.alteredsecurity.com/)
-[![CRTA](https://img.shields.io/badge/CRTA-0891B2?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://www.alteredsecurity.com/)
+[![CRTP](https://img.shields.io/badge/CRTP-D97706?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://www.alteredsecurity.com/)
+[![CRTA](https://img.shields.io/badge/CRTA-D97706?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://www.alteredsecurity.com/)
 
 </div>
 
@@ -360,9 +356,9 @@ Open To:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=164E63)](https://linkedin.com/in/sanaullah-aman-50)
-[![GitHub](https://img.shields.io/badge/GitHub-0891B2?style=for-the-badge&logo=github&logoColor=white&labelColor=164E63)](https://github.com/NagiSheshero7)
-[![Email](https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=164E63)](mailto:sanaullahaman01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D97706?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
+[![GitHub](https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/NagiSheshero7)
+[![Email](https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:sanaullahaman01@gmail.com)
 
 </div>
 
@@ -374,6 +370,6 @@ Open To:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D97706&height=100&section=footer" width="100%" />
 
 </div>
