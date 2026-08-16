@@ -11,11 +11,6 @@
 [![Email](https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sanaullahaman01@gmail.com)
 
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D_Doha%2C_Qatar-B45309?style=for-the-badge&labelColor=1A1A2E)](https://github.com/SanaullahAmanullah)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%94%93_Open_To-Security_Engineer_Worldwide-B45309?style=for-the-badge&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
-
-[![Relocate](https://img.shields.io/badge/%F0%9F%8C%8D_Open_To-Relocate_Worldwide-F59E0B?style=for-the-badge&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
-[![Remote](https://img.shields.io/badge/%F0%9F%92%BB_Remote-Welcome-F59E0B?style=for-the-badge&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
-[![Sponsorship](https://img.shields.io/badge/%F0%9F%9B%82_Visa_Sponsorship-Required-F59E0B?style=for-the-badge&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
 
 </div>
 
@@ -29,7 +24,7 @@
 
 </div>
 
-Security Engineer with **3+ years** of hands-on experience across the full security lifecycle — threat modeling, secure code review, penetration testing, and building security automation. I've discovered **100+ vulnerabilities** across approximately **70 engagements** in fintech, government, healthcare, and e-commerce.
+I break things and build the automation that keeps them fixed. My day job is penetration testing — web apps, APIs, mobile clients, and cloud deployments — and my nights go to security tooling, bug bounties, and AI/LLM security research.
 
 **What I do well:**
 - Break web apps, APIs, and mobile clients — then write the automation so my team doesn't have to do it manually
@@ -43,18 +38,6 @@ Security Engineer with **3+ years** of hands-on experience across the full secur
 - Cloud security at scale — AWS IAM hardening, container security, detection pipelines
 
 I approach security like an engineer: find the pattern, automate the detection, scale the fix.
-
-<br/>
-
-<div align="center">
-
-| 🎯 **Currently Seeking** |
-|:---:|
-| **Security Engineer** — AppSec · CloudSec · Offensive Security |
-| **Location** — Open to Relocate Worldwide · Remote Welcome |
-| **Visa Sponsorship** — Required |
-
-</div>
 
 <br/>
 
@@ -176,63 +159,7 @@ Status: Experimental research — not production tooling
 
 <div align="center">
 
-## Experience
-
-</div>
-
-### Application Security Consultant
-**OISSG Consultancy** — Doha, Qatar<br/>
-`Aug 2025 — Present`
-
-- Lead end-to-end penetration testing engagements across web apps, APIs, mobile clients, and AWS-deployed services for enterprise clients — scope, execute, report, drive remediation
-- Perform AI/ML security assessments on LLM-powered application features — prompt injection, indirect injection, tool-use exploitation
-- Drive secure SDLC practices: STRIDE threat modeling sessions with engineering teams, secure code review (Java, .NET, JavaScript, PHP), SAST/DAST integration in GitLab CI/CD
-- Build security automation in Python — reconnaissance pipelines, API fuzzing harnesses, exploit scripts, reporting tooling
-- Deliver security training for development teams; mentor junior consultants through paired testing and deliverable reviews
-- Discovered 100+ vulnerabilities across approximately 20 engagements
-
-`Python` `Java` `.NET` `JavaScript` `PHP` `AWS` `Burp Suite` `STRIDE` `LLM Security` `GitLab CI/CD`
-
-### Cyber Security Consultant
-**Rewterz** — Saudi Arabia<br/>
-`Oct 2023 — Jul 2025`
-
-- Executed full-scope penetration tests across web apps, internal networks, Active Directory, and AWS cloud for approximately 30 clients in fintech, government, and energy sectors
-- Conducted threat modeling workshops (STRIDE, attack trees) with client architecture teams
-- Developed custom Python and Bash tools for vulnerability verification, evidence collection, and report generation
-- Assessed CI/CD pipeline security — identified hardcoded secrets, overly permissive deployment service accounts, missing branch protection
-- Validated AWS security controls — reviewed IAM policies for least-privilege, tested S3 bucket policies, enumerated Lambda execution roles
-- Wrote board-level executive summaries translating technical findings into business risk; maintained 90%+ fix-rate within SLA
-
-`Penetration Testing` `Threat Modeling` `AWS Security` `Python` `Bash` `CI/CD Security` `Active Directory`
-
-### Junior Security Consultant
-**Rewterz** — Pakistan<br/>
-`Dec 2022 — Sep 2023`
-
-- Performed web and mobile application penetration testing across approximately 20 engagements in fintech, healthcare, and e-commerce
-- Built Python automation for vulnerability verification, configuration auditing against CIS Benchmarks, and evidence collection
-- Contributed to internal security knowledge base — documented attack patterns, testing playbooks, and methodology checklists
-
-`Web Pentesting` `Mobile Pentesting` `Python Automation` `CIS Benchmarks` `Nessus`
-
-### Synack Red Team
-**Synack** — Remote<br/>
-`Jun 2025 — Present`
-
-- Hunt and report vulnerabilities in live production systems — specializing in IDOR, authorization bypass, business logic flaws, and API abuse
-- Maintain **Pro Hacker** rank on Hack The Box — active across Linux, Windows, and cloud machines
-- Built and published open-source security tooling; published technical analysis on Medium
-
-`Bug Bounty` `IDOR` `Business Logic` `Auth Bypass` `API Security`
-
-<br/>
-
----
-
-<div align="center">
-
-## Achievements
+## Highlights
 
 </div>
 
@@ -240,43 +167,27 @@ Status: Experimental research — not production tooling
 
 | 🏆 | |
 |:---:|:---|
-| **100+ Vulnerabilities** | Discovered across ~70 penetration testing engagements (3 years) |
-| **7 Professional Certifications** | OSCP, OSCP+, eWPT, eCPPTv2, CRTP, CRTA, eJPT |
 | **HTB Pro Hacker** | Top 1% rank on Hack The Box — [profile/403075](https://app.hackthebox.com/profile/403075) |
 | **Synack Red Team** | Active contributor hunting production targets |
+| **100+ Vulnerabilities** | Discovered and responsibly reported across web, API, and mobile targets |
 | **4 Open Source Tools** | burp-sec-skills · semgrep-security-rules · api-threat-model · ai-sec-review |
 | **Published Research** | [I Built an AI-Powered Security Code Review Tool](https://medium.com/@sanaullahamankorai/6cdc5ad2c105) |
-| **BSc Computer Science** | 3.70/4.00 CGPA · Ranked 3rd in class · Graduated with Distinction |
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-## Certifications
-
-</div>
-
-<div align="center">
-
-### Offensive Security Certified
+### Certifications
 
 [![OSCP](https://img.shields.io/badge/OSCP-D97706?style=for-the-badge&logo=offensivesecurity&logoColor=white)](https://www.credential.net/)
 [![OSCP+](https://img.shields.io/badge/OSCP+-D97706?style=for-the-badge&logo=offensivesecurity&logoColor=white)](https://www.credential.net/)
-
-### Web & Network Pentesting
-
 [![eWPT](https://img.shields.io/badge/eWPT-D97706?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://certs.ine.com/)
-[![eJPT](https://img.shields.io/badge/eJPT-D97706?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://certs.ine.com/)
 [![eCPPTv2](https://img.shields.io/badge/eCPPTv2-D97706?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://certs.ine.com/)
-
-### Red Team & Active Directory
-
 [![CRTP](https://img.shields.io/badge/CRTP-D97706?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://www.alteredsecurity.com/)
 [![CRTA](https://img.shields.io/badge/CRTA-D97706?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://www.alteredsecurity.com/)
+[![eJPT](https://img.shields.io/badge/eJPT-D97706?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://certs.ine.com/)
 
 </div>
 
@@ -335,11 +246,6 @@ Learning:
   - AI Agent security & MCP trust boundaries
   - Detection engineering at scale
   - Kubernetes & container security
-
-Open To:
-  - Security Engineer (AppSec · CloudSec · Offensive Security)
-  - Relocate worldwide · Remote welcome
-  - Visa sponsorship required
 ```
 
 </div>
