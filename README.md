@@ -86,32 +86,32 @@ I break web apps, APIs, and mobile clients — then automate the boring parts so
 
 <div align="center">
 
-<div style="background-color:#1A1A2E;border:1px solid #B45309;border-radius:12px;padding:16px;display:inline-block;">
+<div style="background-color:#0A0A0A;border:1px solid #3F3F46;border-radius:12px;padding:16px;display:inline-block;">
 
 <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;justify-content:center;max-width:640px;">
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/python.svg" width="44px" title="Python" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/java.svg" width="44px" title="Java" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/js.svg" width="44px" title="JavaScript" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/php.svg" width="44px" title="PHP" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/bash.svg" width="44px" title="Bash" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/csharp.svg" width="44px" title="C#" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/aws.svg" width="44px" title="AWS" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/docker.svg" width="44px" title="Docker" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/kubernetes.svg" width="44px" title="Kubernetes" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/linux.svg" width="44px" title="Linux" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/git.svg" width="44px" title="Git" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/github.svg" width="44px" title="GitHub" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/gitlab.svg" width="44px" title="GitLab" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/mysql.svg" width="44px" title="MySQL" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/postgresql.svg" width="44px" title="PostgreSQL" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/postman.svg" width="44px" title="Postman" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/wordpress.svg" width="44px" title="WordPress" />
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/claude.svg" width="44px" title="Claude" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/python.svg" width="44px" title="Python" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/java.svg" width="44px" title="Java" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/js.svg" width="44px" title="JavaScript" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/php.svg" width="44px" title="PHP" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/bash.svg" width="44px" title="Bash" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/csharp.svg" width="44px" title="C#" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/aws.svg" width="44px" title="AWS" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/docker.svg" width="44px" title="Docker" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/kubernetes.svg" width="44px" title="Kubernetes" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/linux.svg" width="44px" title="Linux" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/git.svg" width="44px" title="Git" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/github.svg" width="44px" title="GitHub" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/gitlab.svg" width="44px" title="GitLab" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/mysql.svg" width="44px" title="MySQL" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/postgresql.svg" width="44px" title="PostgreSQL" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/postman.svg" width="44px" title="Postman" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/wordpress.svg" width="44px" title="WordPress" />
+<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/main/icons/bw/claude.svg" width="44px" title="Claude" />
 </div>
 
 <br/>
 
-<p style="color:#64748B;font-size:13px;margin:0;">Icons by <a href="https://github.com/YuheshPandian/ICONIC" style="color:#F59E0B;">ICONIC</a></p>
+<p style="color:#52525B;font-size:13px;margin:0;">Icons by <a href="https://github.com/YuheshPandian/ICONIC" style="color:#E4E4E7;">ICONIC</a></p>
 
 </div>
 
