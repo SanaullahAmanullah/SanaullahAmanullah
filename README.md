@@ -238,8 +238,7 @@ I break web apps, APIs, and mobile clients — then automate the boring parts so
 |:---:|:---|
 | 🥇 | **HTB Pro Hacker** — top 1% rank · [profile/403075](https://app.hackthebox.com/profile/403075) |
 | 🛰️ | **Synack Red Team** — active contributor on production targets |
-| 🐞 | **100+ vulnerabilities** discovered & responsibly reported |
-| 🧰 | **4 open-source security tools** published |
+| 🎯 | **Yogosha** — active hunter on the Yogosha bug bounty platform |
 
 </div>
 
