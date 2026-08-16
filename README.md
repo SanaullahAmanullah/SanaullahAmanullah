@@ -6,9 +6,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D97706?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanaullah-aman-50)
-[![GitHub](https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanaullahAmanullah)
-[![Email](https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sanaullahaman01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D97706?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
+[![GitHub](https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/SanaullahAmanullah)
+[![Medium](https://img.shields.io/badge/Medium-D97706?style=for-the-badge&logo=medium&logoColor=white&labelColor=1A1A2E)](https://medium.com/@sanaullahamankorai/6cdc5ad2c105)
+[![Email](https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:sanaullahaman01@gmail.com)
 
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D_Doha%2C_Qatar-B45309?style=for-the-badge&labelColor=1A1A2E)](https://github.com/SanaullahAmanullah)
 
@@ -16,40 +17,85 @@
 
 <br/>
 
----
-
-<div align="center">
-
-## About Me
-
-</div>
-
-I break things and build the automation that keeps them fixed. My day job is penetration testing — web apps, APIs, mobile clients, and cloud deployments — and my nights go to security tooling, bug bounties, and AI/LLM security research.
-
-**What I do well:**
-- Break web apps, APIs, and mobile clients — then write the automation so my team doesn't have to do it manually
-- Review code in **Java, .NET, JavaScript, and PHP** — finding injection flaws, broken auth, and logic bugs before they ship
-- Lead **STRIDE threat modeling** sessions with engineering teams during design phase — mapping trust boundaries, identifying risky data flows
-- Build **security tooling in Python** — SAST rules for CI/CD, pentest workflow automation, API threat model generators
-- Hunt on **Synack Red Team** — specializing in IDOR, authorization bypass, and business logic flaws that scanners miss
-
-**What I'm learning:**
-- AI/ML security — LLM prompt injection, indirect injection, agent tool-use trust boundaries. I built an experimental AI-powered code review CLI to explore this space. It's early-stage research, not a product.
-- Cloud security at scale — AWS IAM hardening, container security, detection pipelines
-
-I approach security like an engineer: find the pattern, automate the detection, scale the fix.
+<p align="center">
+  <a href="https://github.com/SanaullahAmanullah">
+    <img src="https://github-readme-stats.vercel.app/api?username=SanaullahAmanullah&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=F59E0B&icon_color=D97706&text_color=94A3B8&rank_icon=github&custom_title=GitHub%20Stats" />
+  </a>
+  <a href="https://github.com/SanaullahAmanullah">
+    <img src="https://streak-stats.demolab.com/?user=SanaullahAmanullah&hide_border=true&background=1A1A2E&stroke=D97706&ring=F59E0B&fire=D97706&currStreakNum=F59E0B&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8" />
+  </a>
+  <a href="https://github.com/SanaullahAmanullah">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaullahAmanullah&layout=compact&langs_count=6&hide_border=true&bg_color=1A1A2E&title_color=F59E0B&text_color=94A3B8" />
+  </a>
+</p>
 
 <br/>
 
 ---
 
 <div align="center">
+<h2 style="color:#F59E0B;margin-bottom:4px;">⚡ About Me</h2>
+<hr style="width:64px;border:2px solid #D97706;border-radius:2px;margin-top:0;"/>
+</div>
 
-## Tech Stack
+<p align="center" style="color:#CBD5E1;">
+Security engineer with an offensive background and a builder's mindset.<br/>
+I break web apps, APIs, and mobile clients — then automate the boring parts so findings get caught faster and fixed for good.
+</p>
+
+<table align="center"><tr>
+<td width="50%">
+
+<div style="background-color:#1A1A2E;border:1px solid #B45309;border-radius:12px;padding:18px;">
+
+<h3 style="color:#F59E0B;margin-top:0;">🎯 What I Do Well</h3>
+
+- 🔓 **Pentesting & Red Team** — web, API, and mobile targets; IDOR, authz bypass, business logic flaws
+- 🔍 **Secure Code Review** — Java, .NET, JavaScript, PHP — flaws caught before they ship
+- 🏗️ **STRIDE Threat Modeling** — trust boundaries and risky data flows mapped in design phase
+- 🐍 **Python Security Tooling** — SAST rules for CI/CD, recon pipelines, exploit automation
+- 🛰️ **Synack Red Team** — hunting production systems that scanners miss
 
 </div>
 
+</td>
+<td width="50%">
+
+<div style="background-color:#1A1A2E;border:1px solid #B45309;border-radius:12px;padding:18px;">
+
+<h3 style="color:#F59E0B;margin-top:0;">🚀 What I'm Exploring</h3>
+
+- 🤖 **AI/LLM Security** — prompt injection, indirect injection, agent tool-use trust boundaries
+- ☁️ **Cloud Security** — AWS IAM hardening, detection pipelines
+- 📦 **Containers** — Kubernetes & container security at scale
+- 🧪 **Research** — experimental AI-powered code review CLI (early-stage, published on Medium)
+
+</div>
+
+</td>
+</tr></table>
+
 <div align="center">
+
+> *"Find the pattern. Automate the detection. Scale the fix."*
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<h2 style="color:#F59E0B;margin-bottom:4px;">🛠️ Tech Stack</h2>
+<hr style="width:64px;border:2px solid #D97706;border-radius:2px;margin-top:0;"/>
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,php,bash,cs,aws,docker,linux,git,postgres,mysql&theme=dark" alt="skill icons" />
+
+<br/>
+<br/>
 
 ### Languages I Work In
 
@@ -87,99 +133,131 @@ I approach security like an engineer: find the pattern, automate the detection, 
 ---
 
 <div align="center">
-
-## Projects
-
+<h2 style="color:#F59E0B;margin-bottom:4px;">🚀 Featured Projects</h2>
+<hr style="width:64px;border:2px solid #D97706;border-radius:2px;margin-top:0;"/>
 </div>
 
-<details open>
-<summary><b>🔐 burp-sec-skills — Claude Code Skill Pack for Pentesting</b></summary>
+<table align="center"><tr>
+<td width="50%">
+
+<div style="background-color:#1A1A2E;border:1px solid #B45309;border-radius:12px;padding:18px;height:100%;">
+
+<h3 style="color:#F59E0B;margin-top:0;">🔐 burp-sec-skills</h3>
+
+**Claude Code skill pack that automates pentest workflows** — IDOR hunting from Burp history, JavaScript endpoint analysis, JWT attack matrix, API surface mapping, structured write-ups. Built on the RCTF prompting framework.
+
 <br/>
 
-A collection of 5 Claude Code skills that automate the repetitive parts of penetration testing. Each skill encodes methodology from real engagements: IDOR hunting from Burp proxy history, JavaScript analysis for hidden endpoints and secrets, JWT attack matrix automation, API surface mapping with risk classification, and structured finding write-ups. Built on the RCTF (Role → Context → Task → Format) prompting framework.
+<code>Claude Code Skills</code> <code>Burp MCP</code> <code>JWT</code>
 
-```yaml
-Stack:  Claude Code Skills · Burp MCP · JWT Tool
-Impact: Cuts manual pentest overhead — endpoint mapping, IDOR hunting, finding write-ups
-```
+<br/>
+<br/>
 
 [![Repo](https://img.shields.io/badge/View_Repo-burp--sec--skills-D97706?style=flat-square&logo=github)](https://github.com/SanaullahAmanullah/burp-sec-skills)
 
-</details>
+</div>
 
-<details>
-<summary><b>🛡️ semgrep-security-rules — CI/CD Rules from Real Findings</b></summary>
+</td>
+<td width="50%">
+
+<div style="background-color:#1A1A2E;border:1px solid #B45309;border-radius:12px;padding:18px;height:100%;">
+
+<h3 style="color:#F59E0B;margin-top:0;">🛡️ semgrep-security-rules</h3>
+
+**20+ CI/CD SAST rules mapped to confirmed real-world findings** — Express IDOR, NoSQL injection, JWT algorithm confusion, hardcoded secrets, Spring mass assignment, SQLi via string formatting. Drop-in GitHub Actions workflow.
+
 <br/>
 
-A curated Semgrep rule pack with 20+ detection rules across JavaScript, Java, Python, PHP, and generic patterns. Every rule maps to a confirmed vulnerability from penetration testing: Express IDOR (req.params without ownership check), NoSQL injection ($gt/$ne from user input), JWT algorithm confusion, hardcoded secrets, mass assignment in Spring, SQL injection via string formatting, pickle deserialization. GitHub Actions workflow included — drop-in CI/CD integration.
+<code>Semgrep</code> <code>GitHub Actions</code> <code>GitLab CI</code>
 
-```yaml
-Stack:  Semgrep · YAML · GitHub Actions · GitLab CI
-Impact: Catches vuln patterns at PR stage — issues caught before they reach pentest
-```
+<br/>
+<br/>
 
 [![Repo](https://img.shields.io/badge/View_Repo-semgrep--security--rules-D97706?style=flat-square&logo=github)](https://github.com/SanaullahAmanullah/semgrep-security-rules)
 
-</details>
+</div>
 
-<details>
-<summary><b>📋 api-threat-model — OpenAPI → Threat Model + Test Plan</b></summary>
+</td>
+</tr></table>
+
+<table align="center"><tr>
+<td width="50%">
+
+<div style="background-color:#1A1A2E;border:1px solid #B45309;border-radius:12px;padding:18px;height:100%;">
+
+<h3 style="color:#F59E0B;margin-top:0;">📋 api-threat-model</h3>
+
+**OpenAPI spec → per-endpoint STRIDE threat models + prioritized test plans** in one command. 1,292 lines of Python across 7 modules, fully offline, zero dependencies. Turns a 3-hour manual mapping into 30 seconds.
+
 <br/>
 
-A Python CLI that ingests an OpenAPI spec and produces a complete security analysis: per-endpoint STRIDE threat models, prioritized test plans, and heuristic-based vulnerability classification. 1,292 lines of Python across 7 modules. Works offline — no API keys, no AI dependency. Reduces 3-hour manual API mapping to a 30-second command.
+<code>Python</code> <code>OpenAPI 3.x</code> <code>STRIDE</code>
 
-```yaml
-Stack:  Python · OpenAPI 3.x · STRIDE · Heuristic Classification
-Impact: 3-hour manual mapping → 30-second automated analysis
-```
+<br/>
+<br/>
 
 [![Repo](https://img.shields.io/badge/View_Repo-api--threat--model-D97706?style=flat-square&logo=github)](https://github.com/SanaullahAmanullah/api-threat-model)
 
-</details>
+</div>
 
-<details>
-<summary><b>🤖 ai-sec-review — AI-Powered Code Review (Research)</b></summary>
+</td>
+<td width="50%">
+
+<div style="background-color:#1A1A2E;border:1px solid #B45309;border-radius:12px;padding:18px;height:100%;">
+
+<h3 style="color:#F59E0B;margin-top:0;">🤖 ai-sec-review</h3>
+
+**Experimental CLI exploring LLM-augmented security code review** — where AI-assisted analysis adds value and where it falls short. 1,100+ lines of Python, zero external dependencies. Published technical analysis on Medium.
+
 <br/>
 
-An experimental CLI exploring LLM-augmented security code review and STRIDE threat modeling. Built to understand where AI-assisted analysis adds value and where it falls short. Early-stage research project — 1,100+ lines of Python with zero external dependencies. Published technical analysis on Medium.
+<code>Python</code> <code>LLM APIs</code> <code>Research</code>
 
-```yaml
-Stack:  Python · LLM APIs · Anthropic Tool-Use
-Status: Experimental research — not production tooling
-```
+<br/>
+<br/>
 
 [![Repo](https://img.shields.io/badge/View_Repo-ai--sec--review-D97706?style=flat-square&logo=github)](https://github.com/SanaullahAmanullah/ai-sec-review)
 [![Article](https://img.shields.io/badge/Read_Article-Medium-D97706?style=flat-square&logo=medium)](https://medium.com/@sanaullahamankorai/6cdc5ad2c105)
 
-</details>
+</div>
+
+</td>
+</tr></table>
 
 <br/>
 
 ---
 
 <div align="center">
-
-## Highlights
-
+<h2 style="color:#F59E0B;margin-bottom:4px;">🏆 Highlights & Credentials</h2>
+<hr style="width:64px;border:2px solid #D97706;border-radius:2px;margin-top:0;"/>
 </div>
 
-<div align="center">
+<table align="center"><tr>
+<td width="50%">
 
-| 🏆 | |
+<div style="background-color:#1A1A2E;border:1px solid #B45309;border-radius:12px;padding:18px;height:100%;">
+
+<h3 style="color:#F59E0B;margin-top:0;">🏆 Highlights</h3>
+
+| | |
 |:---:|:---|
-| **HTB Pro Hacker** | Top 1% rank on Hack The Box — [profile/403075](https://app.hackthebox.com/profile/403075) |
-| **Synack Red Team** | Active contributor hunting production targets |
-| **100+ Vulnerabilities** | Discovered and responsibly reported across web, API, and mobile targets |
-| **4 Open Source Tools** | burp-sec-skills · semgrep-security-rules · api-threat-model · ai-sec-review |
-| **Published Research** | [I Built an AI-Powered Security Code Review Tool](https://medium.com/@sanaullahamankorai/6cdc5ad2c105) |
+| 🥇 | **HTB Pro Hacker** — top 1% rank · [profile/403075](https://app.hackthebox.com/profile/403075) |
+| 🛰️ | **Synack Red Team** — active contributor on production targets |
+| 🐞 | **100+ vulnerabilities** discovered & responsibly reported |
+| 🧰 | **4 open-source security tools** published |
+| ✍️ | [I Built an AI-Powered Security Code Review Tool](https://medium.com/@sanaullahamankorai/6cdc5ad2c105) |
 
 </div>
+
+</td>
+<td width="50%">
+
+<div style="background-color:#1A1A2E;border:1px solid #B45309;border-radius:12px;padding:18px;height:100%;">
+
+<h3 style="color:#F59E0B;margin-top:0;">📜 Certifications</h3>
 
 <br/>
-
-<div align="center">
-
-### Certifications
 
 [![OSCP](https://img.shields.io/badge/OSCP-D97706?style=for-the-badge&logo=offensivesecurity&logoColor=white)](https://www.credential.net/)
 [![OSCP+](https://img.shields.io/badge/OSCP+-D97706?style=for-the-badge&logo=offensivesecurity&logoColor=white)](https://www.credential.net/)
@@ -191,17 +269,21 @@ Status: Experimental research — not production tooling
 
 </div>
 
+</td>
+</tr></table>
+
 <br/>
 
 ---
 
 <div align="center">
-
-## Current Focus
-
+<h2 style="color:#F59E0B;margin-bottom:4px;">🎯 Current Focus</h2>
+<hr style="width:64px;border:2px solid #D97706;border-radius:2px;margin-top:0;"/>
 </div>
 
 <div align="center">
+
+<div style="background-color:#1A1A2E;border:1px solid #B45309;border-radius:12px;padding:18px;display:inline-block;">
 
 ```yaml
 Building:
@@ -218,20 +300,22 @@ Learning:
 
 </div>
 
+</div>
+
 <br/>
 
 ---
 
 <div align="center">
-
-## Connect
-
+<h2 style="color:#F59E0B;margin-bottom:4px;">🤝 Connect</h2>
+<hr style="width:64px;border:2px solid #D97706;border-radius:2px;margin-top:0;"/>
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D97706?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E)](https://linkedin.com/in/sanaullah-aman-50)
 [![GitHub](https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/SanaullahAmanullah)
+[![Medium](https://img.shields.io/badge/Medium-D97706?style=for-the-badge&logo=medium&logoColor=white&labelColor=1A1A2E)](https://medium.com/@sanaullahamankorai/6cdc5ad2c105)
 [![Email](https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:sanaullahaman01@gmail.com)
 
 </div>
