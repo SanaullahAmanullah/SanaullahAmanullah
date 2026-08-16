@@ -240,7 +240,6 @@ I break web apps, APIs, and mobile clients — then automate the boring parts so
 | 🛰️ | **Synack Red Team** — active contributor on production targets |
 | 🐞 | **100+ vulnerabilities** discovered & responsibly reported |
 | 🧰 | **4 open-source security tools** published |
-| ✍️ | [I Built an AI-Powered Security Code Review Tool](https://medium.com/@sanaullahamankorai/6cdc5ad2c105) |
 
 </div>
 
