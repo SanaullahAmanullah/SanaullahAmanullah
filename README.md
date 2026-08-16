@@ -19,13 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/SanaullahAmanullah">
-    <img src="https://github-readme-stats.vercel.app/api?username=SanaullahAmanullah&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=F59E0B&icon_color=D97706&text_color=94A3B8&rank_icon=github&custom_title=GitHub%20Stats" />
-  </a>
-  <a href="https://github.com/SanaullahAmanullah">
     <img src="https://streak-stats.demolab.com/?user=SanaullahAmanullah&hide_border=true&background=1A1A2E&stroke=D97706&ring=F59E0B&fire=D97706&currStreakNum=F59E0B&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8" />
-  </a>
-  <a href="https://github.com/SanaullahAmanullah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaullahAmanullah&layout=compact&langs_count=6&hide_border=true&bg_color=1A1A2E&title_color=F59E0B&text_color=94A3B8" />
   </a>
 </p>
 
