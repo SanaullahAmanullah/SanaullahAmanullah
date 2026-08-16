@@ -201,7 +201,7 @@ I break web apps, APIs, and mobile clients — then automate the boring parts so
 
 <h3 style="color:#F59E0B;margin-top:0;">🤖 ai-sec-review</h3>
 
-**Experimental CLI exploring LLM-augmented security code review** — where AI-assisted analysis adds value and where it falls short. 1,100+ lines of Python, zero external dependencies. Published technical analysis on Medium.
+**Experimental CLI exploring LLM-augmented security code review** — where AI-assisted analysis adds value and where it falls short. 1,100+ lines of Python, zero external dependencies.
 
 <br/>
 
