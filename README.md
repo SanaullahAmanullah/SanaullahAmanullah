@@ -197,38 +197,6 @@ Status: Experimental research — not production tooling
 
 <div align="center">
 
-## GitHub Trophies
-
-</div>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SanaullahAmanullah&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=-C,-?)](https://github.com/SanaullahAmanullah)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## Contribution Snake
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SanaullahAmanullah/SanaullahAmanullah/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## Current Focus
 
 </div>
